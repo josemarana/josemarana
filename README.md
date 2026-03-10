@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hola, soy José Marana
 
-<!--
-**josemarana/josemarana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 SysAdmin | Infraestructura IT | Redes | Microsoft 365 | Virtualización
 
-Here are some ideas to get you started:
+Administrador de infraestructura IT con experiencia en implementación, soporte y optimización de entornos tecnológicos empresariales.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tecnologías y herramientas
+
+- Windows Server
+- Active Directory
+- Microsoft 365
+- Microsoft Entra ID
+- VMware ESXi
+- Veeam Backup & Replication
+- Networking
+- PowerShell
+- Infraestructura IT
+
+---
+
+## 🚀 Actualmente trabajando en
+
+- Implementación de entornos virtualizados
+- Migraciones de infraestructura
+- Administración de Microsoft 365
+- Automatización de tareas administrativas
+- Documentación técnica y buenas prácticas IT
+
+---
+
+## 📚 En este GitHub comparto
+
+- Scripts de PowerShell
+- Procedimientos técnicos
+- Documentación de infraestructura
+- Automatizaciones IT
+- Laboratorios de infraestructura
+
+---
+
+## 📫 Contacto
+
+LinkedIn: (tu linkedin)
