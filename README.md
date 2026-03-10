@@ -20,7 +20,7 @@ Administrador de infraestructura IT con experiencia en implementación, soporte 
 
 ---
 
-## 🚀 Actualmente trabajando en
+## 🚀 Actualmente trabajando en Sílice
 
 - Implementación de entornos virtualizados
 - Migraciones de infraestructura
@@ -42,4 +42,4 @@ Administrador de infraestructura IT con experiencia en implementación, soporte 
 
 ## 📫 Contacto
 
-LinkedIn: (tu linkedin)
+LinkedIn: https://www.linkedin.com/in/josemarana/ 
